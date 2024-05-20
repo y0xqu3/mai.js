@@ -1,2 +1,2 @@
-# mai.js
+# main.js
 java travel
