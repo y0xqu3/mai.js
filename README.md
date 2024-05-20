@@ -1,0 +1,2 @@
+# mai.js
+java travel
